@@ -41,6 +41,7 @@ Fill out the Quilt Tested Environment form [here](https://docs.google.com/forms/
 # Changelog
 1.0
 - Release
+
 1.1
 - Colored error messages
 - Files can only be ran with .quilt file type
