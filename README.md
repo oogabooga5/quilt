@@ -44,6 +44,13 @@ Fill out the Quilt Tested Environment form [here](https://docs.google.com/forms/
 - GPU: AMD 3020e with Radeon Graphics
 - Python version: 3.12
 - Quilt works: yes
+## @oogabooga5 - Nov 16 2023 - Quilt 1.3
+- OS: Ubuntu 22.04
+- CPU type: 64bit
+- RAM: 4GB
+- GPU: AMD 3020e with Radeon Graphics
+- Python version: 3.12
+- Quilt works: yes
 
 # Changelog
 1.0
@@ -59,3 +66,6 @@ Fill out the Quilt Tested Environment form [here](https://docs.google.com/forms/
 - cookieclicker command
 - data command
 - Online data system
+
+1.3
+- domain command (Checks if domain exists)
