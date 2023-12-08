@@ -51,6 +51,13 @@ Fill out the Quilt Tested Environment form [here](https://docs.google.com/forms/
 - GPU: AMD 3020e with Radeon Graphics
 - Python version: 3.12
 - Quilt works: yes
+## @oogabooga5 - Dec 8 2023 - Quilt 1.4
+- OS: Ubuntu 22.04
+- CPU type: 64bit
+- RAM: 4GB
+- GPU: AMD 3020e with Radeon Graphics
+- Python version: 3.12
+- Quilt works: yes
 
 # Changelog
 1.0
@@ -69,3 +76,8 @@ Fill out the Quilt Tested Environment form [here](https://docs.google.com/forms/
 
 1.3
 - domain command (Checks if domain exists)
+
+1.4
+- Minor improvements to help menu
+- listdata command
+- Fixed Windows and Mac clients not being able to connect
